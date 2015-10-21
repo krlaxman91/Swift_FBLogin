@@ -36,7 +36,6 @@ class ViewController: UIViewController , FBSDKLoginButtonDelegate {
     
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
     }
     
     //MARK:- FBSDKApplicationDelegate delegate methods
