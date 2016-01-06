@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A3A342BC3740EB37DAF173F467D69A0FC5112827",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A3A342BC3740EB37DAF173F467D69A0FC5112827" : 0,
+    "3C0CC662956A0E0171859D79B141AD31682B548D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FAAB580B-F152-4E13-81BA-3C0EE1611103",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A3A342BC3740EB37DAF173F467D69A0FC5112827" : "Swift_FacebookLogin\/",
+    "3C0CC662956A0E0171859D79B141AD31682B548D" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Swift_FacebookLogin",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Swift_FacebookLogin.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/krlaxman91\/HorizontalScroll.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3C0CC662956A0E0171859D79B141AD31682B548D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/krlaxman91\/Swift_FBLogin.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A3A342BC3740EB37DAF173F467D69A0FC5112827"
+    }
+  ]
+}
